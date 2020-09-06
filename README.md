@@ -25,6 +25,6 @@ Additional capabilities:
 2) Support mobile devices 
 
 Short presentation is avaliable by reference https://youtu.be/G4mweRfIlxM
-Source code 
+Source code https://github.com/AndreiVodolagin/Dream-Pool.git
 This was CS50x!))
 
