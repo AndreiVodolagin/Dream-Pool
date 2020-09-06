@@ -1,0 +1,38 @@
+﻿@using Microsoft.AspNetCore.Http.Features
+
+@{
+    var consentFeature = Context.Features.Get<ITrackingConsentFeature>();
+    var showBanner = !consentFeature?.CanTrack ?? false;
+    var cookieString = consentFeature?.CreateConsentCookie();
+}
+
+@if (showBanner)
+    {
+        <nav id="cookieConsent" class="p-0 navbar-expand-sm fixed-bottom navbar-dark bg-secondary hidden" role="alert" >
+            <div class="container p-0">
+                <div class="navbar-header p-0">
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#cookieConsent .navbar-collapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse p-0">
+                    <p class="navbar-text p-0 m-0 text-light">
+                        Dream Pool may use cookies, when you visit our website www.dream-pool.site,<br /> to help customize the Site and improve your experience.
+                    </p>
+                    <div class="navbar-right ml-1">
+                        <a asp-controller="Home" asp-action="Privacy" class="btn btn-info navbar-btn">Learn More</a>
+                        <button type="button" class="btn btn-light navbar-btn" data-cookie-string="@cookieString">Accept</button>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <script>
+            (function () {
+                document.querySelector("#cookieConsent button[data-cookie-string]").addEventListener("click", function (el) {
+                    document.cookie = el.target.dataset.cookieString;
+                    document.querySelector("#cookieConsent").classList.add("d-none");
+                }, false);
+            })();
+        </script>
+    }
+

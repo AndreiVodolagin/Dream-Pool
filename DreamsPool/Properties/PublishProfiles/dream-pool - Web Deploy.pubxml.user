@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhb4ZCxFiSE2bXJt+93UB2AAAAAACAAAAAAAQZgAAAAEAACAAAAA1NaGygqTMTLnvthIHOHeVs9pDqTIdhJwpN+BaTA/EYAAAAAAOgAAAAAIAACAAAAAjdLc7WAa0pdQNo7n8lCAOn6b1ygKfvDZu3z2Mhg64NoAAAAB9SHypk/1S6vXFI11AdTmJ8X/E6VYbv4KQZXfSbyNYOd4E82iJ+4+rRUN5bCYx/Tap2sfbpvrUbq7Tw8g3dANHEJR1hjdJfm6LfiXbpuBZ1vynse+uSniksrlcQW+MX/LmG9qkrXrYJ4VOT2HgGLIV3tSgyyHTYh8qkNv7n2bCo0AAAADYk1vNMYWvnAXe5l2RZZ+bAE+AvDwV4ucQE76nn3lgcB+qE2VlAtFSBLEymK2QYj1X6zyiaBvlZx0rCdSSxIK7</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:dream-pooldbserver.database.windows.net,1433%3bInitial Catalog=dreampool%3bUser Id=DreamPool_1%40dream-pooldbserver%3bPassword=220411_DM</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

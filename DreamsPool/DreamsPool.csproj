@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>44a9c317-3c1e-4547-ab1c-d4f21367e916</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\site.css~RF111e0666.TMP" />
+    <Content Remove="wwwroot\css\site.css~RF781601ac.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Models\a2tbzozr.kcd~" />
+    <None Remove="Services\MailAlert.cs~RF6e4fc4d.TMP" />
+    <None Remove="Views\Home\Order.cshtml~RF782563c8.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>

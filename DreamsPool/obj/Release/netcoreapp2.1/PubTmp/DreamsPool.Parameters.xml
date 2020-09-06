@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="andreivodolagin-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\Dream\ Pool\\DreamsPool\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="DreamsPool.Models.DbAppContext" description="" value="Data Source=SQL6005.site4now.net;Initial Catalog=DB_A44B6C_dreampooldb;User Id=DB_A44B6C_dreampooldb_admin;Password=a12345A1;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^F:\\Dream\ Pool\\DreamsPool\\obj\\Release\\netcoreapp2\.1\\PubTmp\\EFSQLScripts\\DreamsPool\.Models\.DbAppContext\.sql$" />
+  </parameter>
+</parameters>

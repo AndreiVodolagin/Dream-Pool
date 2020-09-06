@@ -1,0 +1,292 @@
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.deps.json
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.json
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.dev.json
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.dll
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csprojAssemblyReference.cache
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CoreCompileInputs.cache
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cache
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cs
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfoInputs.cache
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfo.cs
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cache
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.pdb
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.dll
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.pdb
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.dll
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.input.cache
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.output.cache
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorCoreGenerate.cache
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cs
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CopyComplete
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\vodol\OneDrive\Рабочий стол\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.deps.json
+F:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.json
+F:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.dev.json
+F:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.dll
+F:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.pdb
+F:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.dll
+F:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csprojAssemblyReference.cache
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CoreCompileInputs.cache
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cache
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfoInputs.cache
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfo.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.input.cache
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.output.cache
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorCoreGenerate.cache
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cache
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.dll
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.pdb
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CopyComplete
+E:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.deps.json
+E:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.json
+E:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.dev.json
+E:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.dll
+E:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.pdb
+E:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.dll
+E:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csprojAssemblyReference.cache
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CoreCompileInputs.cache
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cache
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfoInputs.cache
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfo.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.input.cache
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.output.cache
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorCoreGenerate.cache
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cache
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.dll
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.pdb
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CopyComplete
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Order.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Order.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\AboutUs.g.cshtml.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Gallery.g.cshtml.cs
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SelectLanguagePartial.g.cshtml.cs
+E:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+E:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.en.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.es.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.GenerateResource.cache
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.en.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.es.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.en.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.es.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.en.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.es.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.en.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.es.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.en.resources
+E:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.es.resources
+F:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+F:\DreamsPool\DreamsPool\bin\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.en.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.es.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.en.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.es.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.en.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.es.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.en.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.es.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.en.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.es.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.en.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.es.resources
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.GenerateResource.cache
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\AboutUs.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Gallery.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SelectLanguagePartial.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\en\DreamsPool.resources.cs
+F:\DreamsPool\DreamsPool\obj\Debug\netcoreapp2.1\es\DreamsPool.resources.cs
+F:\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.deps.json
+F:\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.json
+F:\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.dev.json
+F:\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.dll
+F:\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.pdb
+F:\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+F:\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+F:\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.dll
+F:\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csprojAssemblyReference.cache
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.en.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.es.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.en.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.es.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.en.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.es.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.en.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.es.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.en.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.es.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.en.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.es.resources
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.GenerateResource.cache
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CoreCompileInputs.cache
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cache
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfoInputs.cache
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfo.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.input.cache
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.output.cache
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorCoreGenerate.cache
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\AboutUs.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Gallery.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Order.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SelectLanguagePartial.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cache
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.dll
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.pdb
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CopyComplete
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\en\DreamsPool.resources.cs
+F:\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\es\DreamsPool.resources.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.dll
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.pdb
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\appsettings.json
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\libman.json
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.deps.json
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.json
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.dev.json
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.dll
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.pdb
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.dll
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csprojAssemblyReference.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.en.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.es.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.en.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.es.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.en.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.es.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.en.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.es.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.en.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.es.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.en.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.es.resources
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.GenerateResource.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CoreCompileInputs.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfoInputs.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfo.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.input.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.output.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorCoreGenerate.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Gallery.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Order.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SelectLanguagePartial.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cs
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.genruntimeconfig.cache
+H:\IT\Projects\IN RELEASE\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CopyComplete
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\appsettings.json
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\libman.json
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.deps.json
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.json
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.runtimeconfig.dev.json
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.dll
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.pdb
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.dll
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\bin\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csprojAssemblyReference.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.en.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.AboutUs.es.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.en.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Contact.es.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.en.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Gallery.es.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.en.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Index.es.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.en.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Home.Order.es.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.en.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Resources.Views.Shared._Layout.es.resources
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.GenerateResource.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CoreCompileInputs.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorAssemblyInfo.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfoInputs.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.AssemblyInfo.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\en\DreamsPool.resources.dll
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\es\DreamsPool.resources.dll
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.input.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.TagHelpers.output.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorCoreGenerate.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Gallery.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Order.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SelectLanguagePartial.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.RazorTargetAssemblyInfo.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.Views.pdb
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.dll
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.pdb
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.genruntimeconfig.cache
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\DreamsPool.csproj.CopyComplete
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\en\DreamsPool.resources.cs
+E:\IT\CS\CS-50\final project\Dream Pool\DreamsPool\obj\Debug\netcoreapp2.1\es\DreamsPool.resources.cs
